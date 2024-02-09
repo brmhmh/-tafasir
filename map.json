@@ -1,29 +1,36 @@
 [
     {
+        "id": 1,
         "name": "البغوي",
         "path": "tafasir/elbaghawi.json"
     },
     {
+        "id": 2,
         "name": "الجلالين",
         "path": "tafasir/eldjalalin.json"
     },
     {
+        "id": 3,
         "name": "السعدي",
         "path": "tafasir/elsaadi.json"
     },
     {
+        "id": 4,
         "name": "الطبري",
         "path": "tafasir/eltabari.json"
     },
     {
+        "id": 5,
         "name": "الوسيط لطنطاوي",
         "path": "tafasir/elwasit-litantawi.json"
     },
     {
+        "id": 6,
         "name": "ابن كثير",
         "path": "tafasir/ibn-katir.json"
     },
     {
+        "id": 7,
         "name": "القرطبي",
         "path": "tafasir/kortobi.json"
     }
