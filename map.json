@@ -1,6 +1,30 @@
 [
     {
-        "name":"الطبري",
-        "path":"tafasir/eltabari.json"
+        "name": "البغوي",
+        "path": "tafasir/elbaghawi.json"
+    },
+    {
+        "name": "الجلالين",
+        "path": "tafasir/eldjalalin.json"
+    },
+    {
+        "name": "السعدي",
+        "path": "tafasir/elsaadi.json"
+    },
+    {
+        "name": "الطبري",
+        "path": "tafasir/eltabari.json"
+    },
+    {
+        "name": "الوسيط لطنطاوي",
+        "path": "tafasir/elwasit-litantawi.json"
+    },
+    {
+        "name": "ابن كثير",
+        "path": "tafasir/ibn-katir.json"
+    },
+    {
+        "name": "القرطبي",
+        "path": "tafasir/kortobi.json"
     }
 ]
